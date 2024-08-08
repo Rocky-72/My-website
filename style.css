@@ -1,0 +1,30 @@
+
+header {
+    background-color: #fafafa;
+    height: 30px;
+    }
+.navbar ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.navbar li a{
+    margin-right: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.menubar {
+    max-width: 36px;
+    position: absolute; /* add this */
+    top: 0.1%; /* adjust the top position */
+    right: 10px; /* adjust the right position */
+}
+
+
+
+
+
